@@ -7,4 +7,8 @@ After cloning, install node_modules, then start with: npm test
 
 - should allow input in username and password fields
 
+# It will test sum.js component with expect + toBe:
+
+- expect 2 numbers summary, and toBe the result, if the sum is ok  
+
 # The test using Jest & testing-library/react
